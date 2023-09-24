@@ -1,0 +1,18 @@
+new entry "Shielded_Resilience"
+type "PassiveData"
+data "DisplayName" "DDD4918CBFE8366732F53AE4C55002D12D9EE;1"
+data "Description" "B6ECE7796B04B282D84C50FB56A9A0C8C4BDF;1"
+data "Icon" "Shielded_Resilience_Icon"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnStatusApplied"
+data "Boosts" "Resistance(Poison, Resistant);Resistance(Radiant, Resistant)"
+data "StatsFunctors" "IF(StatusHasStatusGroup(context.StatusId, 'SG_Disease')):RemoveStatus(SG_Disease)"
+
+
+new entry "Shielded_Resolve"
+type "PassiveData"
+data "DisplayName" "D017808CB401A61E5F6D31D6C2A2FF04CACDA;1"
+data "Description" "5178811F9F7B33DFD39352960B59A5C4132F1;1"
+data "Icon" "Shielded_Resolve_Icon"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(FRIGHTENED);StatusImmunity(SG_Frightened);StatusImmunity(SG_Fleeing)"

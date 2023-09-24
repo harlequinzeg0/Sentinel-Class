@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Sentinel Lvl Two"/>
+                    <attribute id="Spells" type="LSString" value="Shout_DefensiveStance_Sentinel"/>
+                    <attribute id="UUID" type="guid" value="9d882522-877f-4f45-a5ae-983eedd7a049"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="The Sentinel is a formidable warrior class, specializing in shield-based combat and protection tactics." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="12192969856EB0B5BAD9353E5A2B9606FCB81" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="0252515E9727EDAE0F6637E5FE6032AFC1B28" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="SENTINEL" />
+			<attribute id="UUID" type="guid" value="1e7047d0-30ee-4ad9-9d43-fce36a4b3987" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
