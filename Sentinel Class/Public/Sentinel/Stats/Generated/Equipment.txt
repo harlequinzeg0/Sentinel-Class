@@ -3,7 +3,7 @@ add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Spear"
 add equipmentgroup
-add equipment entry "ARM_Shield_C"
+add equipment entry "ARM_Shield"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
@@ -11,7 +11,7 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "ARM_ScaleMail_Body"
+add equipment entry "ARM_HalfPlate_Body"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
