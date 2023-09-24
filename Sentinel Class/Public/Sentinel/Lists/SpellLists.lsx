@@ -9,6 +9,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_DefensiveStance_Sentinel"/>
                     <attribute id="UUID" type="guid" value="9d882522-877f-4f45-a5ae-983eedd7a049"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Sentinel level 6 (Aura)"/>
+                    <attribute id="Spells" type="LSString" value="Shout_AuraOf_Shielding"/>
+                    <attribute id="UUID" type="guid" value="aa8182e9-a1a3-4e40-a853-470887931ba5"/>
+                </node>
 			</children>
         </node>
     </region>

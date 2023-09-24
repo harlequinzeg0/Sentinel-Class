@@ -31,7 +31,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(9d882522-877f-4f45-a5ae-983eedd7a049)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DefensiveStance_Sentinel_Unlock"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="eb4b7190-af5a-436a-824f-d5696d30b74d"/>
                 </node>
@@ -67,6 +67,7 @@
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(aa8182e9-a1a3-4e40-a853-470887931ba5,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="13976fa7-4617-43e5-9ce3-39a9917ea9ec"/>
                 </node>
@@ -101,6 +102,8 @@
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="DefensiveStance_Sentinel_Unlock"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DefensiveStance_Sentinel_Unlock_2"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="491d15fe-99de-427f-8627-66a12b576ded"/>
                 </node>
