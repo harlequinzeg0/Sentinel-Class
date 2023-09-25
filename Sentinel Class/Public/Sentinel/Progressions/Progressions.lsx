@@ -27,11 +27,12 @@
                     <attribute id="UUID" type="guid" value="6f208ee3-5fbe-4753-802f-7bde4ccb3478"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,3,0)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesAdded" type="LSString" value="DefensiveStance_Sentinel_Unlock"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(3da677aa-3c01-4ace-b02a-cacf5d8895c9,3,Maneuvers)"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="eb4b7190-af5a-436a-824f-d5696d30b74d"/>
                 </node>
@@ -72,7 +73,7 @@
                     <attribute id="UUID" type="guid" value="13976fa7-4617-43e5-9ce3-39a9917ea9ec"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
