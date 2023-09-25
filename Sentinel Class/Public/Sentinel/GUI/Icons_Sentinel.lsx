@@ -32,6 +32,20 @@
                     <attribute id="V1" type="float" value="0.0"/>
                     <attribute id="V2" type="float" value="0.1"/>
                 </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="PassiveFeature_ShieldAttacks"/>
+                    <attribute id="U1" type="float" value="0.4"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="PassiveFeature_FortressOfArmor"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.6"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.1"/>
+                </node>
             </children>
         </node>
     </region>

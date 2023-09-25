@@ -21,8 +21,12 @@
 	<content contentuid="955A6F19ABD28AE0B5418C313B93EB49D1CFE" version="1">Allies within [1] of you gain a [2] bonus to their AC.</content>
 
 	<content contentuid="E57CDCDAF652B45D802C863A4CF083096D624" version="1">Offensive Shield Mastery</content>
+	<content contentuid="18AB30D440B158C173C727AB4FA5B44FEC1DA" version="1">Superior Offensive Shield Mastery</content>
 	<content contentuid="E12625944A16B50CC82235DA0C6A8218C9D5B" version="1">You are proficient in shielded combat. Your shields act as weapons when unarmed, dealing [1] damage.</content>
 
 	<content contentuid="E41FCD77B7862F68517AE9F630BE6A220F2E6" version="1">Shield Attack</content>
-	<content contentuid="236D60BD3B61C06755A62BE4C8D70AB611F46" version="1">Attack an enemy with your shield, dealing [1] damage.</content>
+	<content contentuid="236D60BD3B61C06755A62BE4C8D70AB611F46" version="1">Attack an enemy with your shield, dealing Bludgeoning damage.</content>
+
+	<content contentuid="98DBC1CC25A5173C246360AFEF38384F91268" version="1">Armored Fortress</content>
+	<content contentuid="07564BABD6BD3111C80E2A966757B1CA0F0D3" version="1">Wielding a shield provides an additional [1] bonus to AC</content>
 </contentList>
