@@ -37,6 +37,8 @@ data "Description" "E12625944A16B50CC82235DA0C6A8218C9D5B;1"
 data "DescriptionParams" "DealDamage(1d6+StrengthModifier, Bludgeoning)"
 data "Icon" "PassiveFeature_ShieldMaster_PassiveBonuses"
 data "Properties" "Highlighted"
-data "StatsFunctorContext" "OnEquip;OnCreate"
-data "Conditions" "HasShieldEquipped() and not HasWeaponInMainHand()"
-data "StatsFunctors" "ApplyStatus(SELF, UNARMEDATTACK_OVERRIDE_SENTINEL,100,-1)"
+data "BoostContext" "OnEquip;OnCreate;OnUnequip;OnShortRest;OnLongRest;OnMovedDistance;OnInventoryChanged"
+data "BoostConditions" "HasShieldEquipped() and not HasWeaponInMainHand()"
+data "Boosts" "AttackSpellOverride(Target_ShieldAttack, Target_UnarmedAttack)"
+
+

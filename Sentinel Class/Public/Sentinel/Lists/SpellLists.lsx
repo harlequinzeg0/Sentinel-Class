@@ -5,6 +5,11 @@
         <node id="root">
             <children>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Sentinel Lvl One"/>
+                    <attribute id="Spells" type="LSString" value="Target_ShieldAttack"/>
+                    <attribute id="UUID" type="guid" value="303e2715-4ff6-4120-92bc-34a184080557"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Sentinel Lvl Two"/>
                     <attribute id="Spells" type="LSString" value="Shout_DefensiveStance_Sentinel"/>
                     <attribute id="UUID" type="guid" value="9d882522-877f-4f45-a5ae-983eedd7a049"/>
