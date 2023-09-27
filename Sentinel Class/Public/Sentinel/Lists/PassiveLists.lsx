@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Target_Bash_Sentinel,DistractingStrike_Sentinel,GoadingAttack_Sentinel,MenacingAttack,PrecisionAttack,PushingAttack,Rally,Riposte"/>
+                    <attribute id="Passives" type="LSString" value="Target_Bash_Sentinel,DistractingStrike_Sentinel,GoadingAttack_Sentinel,ShieldofFaith_Sentinel,Sentinels_Rally,ShieldLock_Sentinel"/>
                     <attribute id="UUID" type="guid" value="3da677aa-3c01-4ace-b02a-cacf5d8895c9"/>
                 </node>
             </children>

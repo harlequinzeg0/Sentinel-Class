@@ -29,4 +29,12 @@
 
 	<content contentuid="98DBC1CC25A5173C246360AFEF38384F91268" version="1">Armored Fortress</content>
 	<content contentuid="07564BABD6BD3111C80E2A966757B1CA0F0D3" version="1">Wielding a shield provides an additional [1] bonus to AC</content>
+
+	<content contentuid="6175553B6E28CFECE60784355861EA96D6094" version="1">Protective Shield</content>
+	<content contentuid="BC61E62A5408D7566797D430E225CFFC37DBC" version="1">An ally of your choosing gains +3 bonus to their AC until the end of their sixth turn.</content>
+
+	<content contentuid="952BD20E8D1D40213E12522BE5DDF0BD681FF" version="1">Sentinels Rally</content>
+	<content contentuid="DF63A587AA668D8C097D56C467CEFF2AB156D" version="1">Bolster the resolve of a friendly creature. It gains an additional 16 Temporary Hit Points</content>
+
+	<content contentuid="7B78D531724E6BB6F31FF361C5E8EDE56FBF7" version="1">Shield Lock</content>
 </contentList>
