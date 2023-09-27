@@ -23,7 +23,7 @@
 	<content contentuid="236D60BD3B61C06755A62BE4C8D70AB611F46" version="1">Attack an enemy with your shield, dealing Bludgeoning damage.</content>
 
 	<content contentuid="98DBC1CC25A5173C246360AFEF38384F91268" version="1">Armored Fortress</content>
-	<content contentuid="07564BABD6BD3111C80E2A966757B1CA0F0D3" version="1">Wielding a shield provides [1] temporary HP when starting combat.</content>
+	<content contentuid="07564BABD6BD3111C80E2A966757B1CA0F0D3" version="1">Wielding a shield provides temporary HP equal to your Sentinel level when starting combat.</content>
 
 	<content contentuid="6175553B6E28CFECE60784355861EA96D6094" version="1">Protective Shield</content>
 	<content contentuid="BC61E62A5408D7566797D430E225CFFC37DBC" version="1">An ally of your choosing gains +3 bonus to their AC until the end of their sixth turn.</content>
