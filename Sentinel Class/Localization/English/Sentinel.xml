@@ -2,9 +2,7 @@
 <contentList>
 	<content contentuid="0252515E9727EDAE0F6637E5FE6032AFC1B28" version="1">Sentinel</content>
 	<content contentuid="12192969856EB0B5BAD9353E5A2B9606FCB81" version="1">The Sentinel is a formidable warrior class, specializing in shield-based combat and protection tactics. Sentinels are the steadfast guardians of the battlefield, utilizing their shields not just as defensive tools, but as weapons and strategic assets.</content>
-	<content contentuid="80C9A397ADAD0C43860431B6A7DF19AE2478D" version="1">Bulkwark</content>
-	<content contentuid="CFCFA71F3AD8312A4B587D24548624F8B2B6E" version="1">The Bulwark Sentinel is a subclass specializing in the mastery of dual-shield tactics, becoming an impenetrable fortress on the battlefield. Bulwark Sentinels focus on maximizing defensive capabilities</content>
-	
+
 	<content contentuid="DDD4918CBFE8366732F53AE4C55002D12D9EE" version="1">Shielded Resilience</content>
 	<content contentuid="B6ECE7796B04B282D84C50FB56A9A0C8C4BDF" version="1">Gain immunity to disease and resistance to poison and radiant damage.</content>
 
@@ -37,4 +35,13 @@
 	<content contentuid="DF63A587AA668D8C097D56C467CEFF2AB156D" version="1">Bolster the resolve of a friendly creature. It gains an additional 16 Temporary Hit Points</content>
 
 	<content contentuid="7B78D531724E6BB6F31FF361C5E8EDE56FBF7" version="1">Shield Lock</content>
+
+	<content contentuid="8083F0DAC2ACCE9DA0CD2405A449A4B35109E" version="1">Bulwark</content>
+	<content contentuid="00ADC0076C806DDD7050EEA4693F6CB08C0C1" version="1">The Bulwark is an unbreakable defender, using their shield to absorb blows and protect their allies, standing firm where others would fall. They specialize in enduring the onslaught of enemies and providing a safe haven for their companions in the heat of battle.</content>
+
+	<content contentuid="30E63A5BF54004B4931E67AC9B021361D8A3B" version="1">Hoplite</content>
+	<content contentuid="024F21C75EB13F644934B52892D5127966073" version="1">The Hoplite is a disciplined warrior, blending offense and defense to control the battlefield, utilizing shields and spears to their maximum potential. They specialize in precise strikes and rapid advances, disrupting enemy lines and breaking their formations.</content>
+
+	<content contentuid="7715134B77EB383C5F5A8E5E3912941336ACF" version="1">Guardian</content>
+	<content contentuid="DE0F5C8A810D42714F4D8F05DD68BCF36EE06" version="1">The Guardian is a dedicated protector, vowing to shield their allies from harm and always ready to sacrifice themselves to ensure their companions' safety. They excel in deflecting attacks away from their allies and are quick to intervene when danger looms.</content>
 </contentList>
