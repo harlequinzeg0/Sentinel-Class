@@ -27,12 +27,11 @@
                     <attribute id="UUID" type="guid" value="6f208ee3-5fbe-4753-802f-7bde4ccb3478"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,3,0)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesAdded" type="LSString" value="DefensiveStance_Sentinel_Unlock"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(3da677aa-3c01-4ace-b02a-cacf5d8895c9,3,Maneuvers)"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="eb4b7190-af5a-436a-824f-d5696d30b74d"/>
                 </node>
@@ -79,16 +78,16 @@
                     <attribute id="UUID" type="guid" value="7a0966a2-2b3c-4056-8f10-bf0b1ed5ba90"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(aa8182e9-a1a3-4e40-a853-470887931ba5,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="13976fa7-4617-43e5-9ce3-39a9917ea9ec"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -118,8 +117,6 @@
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="DefensiveStance_Sentinel_Unlock"/>
-                    <attribute id="PassivesAdded" type="LSString" value="DefensiveStance_Sentinel_Unlock_2"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="491d15fe-99de-427f-8627-66a12b576ded"/>
                 </node>
@@ -129,7 +126,8 @@
                     <attribute id="Name" type="LSString" value="Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Sentinel_ShieldAttacks"/>
-                    <attribute id="PassivesAdded" type="LSString" value="FortressOfArmor;Sentinel_ShieldAttacks_2"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sentinel_ShieldAttacks_2"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(aa8182e9-a1a3-4e40-a853-470887931ba5,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="315cafa4-ca77-4cba-84b4-9edbd9d8f3f3"/>
                 </node>
@@ -147,7 +145,7 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Bulwark"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="FortressOfArmor"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="51f8a013-4ac7-403f-aabe-b917e3be5875"/> 
                     <attribute id="UUID" type="guid" value="83c8b53b-e20e-4f69-94dd-fe9581c7eb35"/>
@@ -165,7 +163,7 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Bulwark"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Unyielding"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="51f8a013-4ac7-403f-aabe-b917e3be5875"/> 
                     <attribute id="UUID" type="guid" value="727fa62b-3592-49d5-b756-7689d7b7ba4a"/>

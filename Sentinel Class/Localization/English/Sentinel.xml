@@ -6,14 +6,11 @@
 	<content contentuid="DDD4918CBFE8366732F53AE4C55002D12D9EE" version="1">Shielded Resilience</content>
 	<content contentuid="B6ECE7796B04B282D84C50FB56A9A0C8C4BDF" version="1">Gain immunity to disease and resistance to poison and radiant damage.</content>
 
-	<content contentuid="D017808CB401A61E5F6D31D6C2A2FF04CACDA" version="1">Shielded Resolve</content>
-	<content contentuid="5178811F9F7B33DFD39352960B59A5C4132F1" version="1">Gain immunity to the frightened condition.</content>
+	<content contentuid="D017808CB401A61E5F6D31D6C2A2FF04CACDA" version="1">Shielded Mind</content>
+	<content contentuid="5178811F9F7B33DFD39352960B59A5C4132F1" version="1">Gain advantage on saving throws against being frightened or charmed.</content>
 
 	<content contentuid="E375AB0F2E0C23C5144473DCD05E310F06686" version="1">Defensive Stance</content>
-	<content contentuid="DBCE67C308D01E0AE9498B9D98CB2AAABD5EC" version="1">As a bonus action, enter a stance, granting +2 to AC until the end of your next turn. Useable once per combat.</content>
-
-	<content contentuid="C37EB2CA4421F806DD2267C3F1315A2031A56" version="1">Enhanced Defensive Stance</content>
-	<content contentuid="B50CB29B49ED3CDA43CA77E23C2CC538D3D66" version="1">As a bonus action, enter a stance, granting +4 to AC until the end of your next turn. Useable once per combat.</content>
+	<content contentuid="DBCE67C308D01E0AE9498B9D98CB2AAABD5EC" version="1">Once per long rest, assume a defensive stance, granting you advantage on all physical and charismatic saving throws and resistance to all damage for one round.</content>
 
 	<content contentuid="8A76DBEC03C1552A7BBB996CD3F5EF1C7318A" version="1">Aura of Shielding</content>
 	<content contentuid="955A6F19ABD28AE0B5418C313B93EB49D1CFE" version="1">Allies within [1] of you gain a [2] bonus to their AC.</content>
@@ -26,13 +23,13 @@
 	<content contentuid="236D60BD3B61C06755A62BE4C8D70AB611F46" version="1">Attack an enemy with your shield, dealing Bludgeoning damage.</content>
 
 	<content contentuid="98DBC1CC25A5173C246360AFEF38384F91268" version="1">Armored Fortress</content>
-	<content contentuid="07564BABD6BD3111C80E2A966757B1CA0F0D3" version="1">Wielding a shield provides an additional [1] bonus to AC</content>
+	<content contentuid="07564BABD6BD3111C80E2A966757B1CA0F0D3" version="1">Wielding a shield provides [1] temporary HP when starting combat.</content>
 
 	<content contentuid="6175553B6E28CFECE60784355861EA96D6094" version="1">Protective Shield</content>
 	<content contentuid="BC61E62A5408D7566797D430E225CFFC37DBC" version="1">An ally of your choosing gains +3 bonus to their AC until the end of their sixth turn.</content>
 
-	<content contentuid="952BD20E8D1D40213E12522BE5DDF0BD681FF" version="1">Sentinels Rally</content>
-	<content contentuid="DF63A587AA668D8C097D56C467CEFF2AB156D" version="1">Bolster the resolve of a friendly creature. It gains an additional 16 Temporary Hit Points</content>
+	<content contentuid="952BD20E8D1D40213E12522BE5DDF0BD681FF" version="1">Unyielding</content>
+	<content contentuid="DF63A587AA668D8C097D56C467CEFF2AB156D" version="1">Once per long rest, drop to 1 hit point instead of 0.</content>
 
 	<content contentuid="7B78D531724E6BB6F31FF361C5E8EDE56FBF7" version="1">Shield Lock</content>
 
