@@ -12,7 +12,7 @@ data "DisplayName" "D017808CB401A61E5F6D31D6C2A2FF04CACDA;1"
 data "Description" "5178811F9F7B33DFD39352960B59A5C4132F1;1"
 data "Icon" "Shielded_Resolve_Icon"
 data "Properties" "Highlighted"
-data "Boosts" "Tag(CHARMED_ADV);Tag(FRIGHTENED_ADV)"
+data "Boosts" "Tag(CHARMED_ADV);StatusImmunity(FRIGHTENED);StatusImmunity(SG_Frightened);StatusImmunity(SG_Fleeing)"
 
 new entry "DefensiveStance_Sentinel_Unlock"
 type "PassiveData"
