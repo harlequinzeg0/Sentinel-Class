@@ -155,7 +155,7 @@
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Bulwark"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(f2a527b0-1c06-425e-9d9a-a6e745eda203,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="51f8a013-4ac7-403f-aabe-b917e3be5875"/> 
                     <attribute id="UUID" type="guid" value="c1866279-a4bc-4153-96df-7499c81fcbd4"/>
                 </node>

@@ -33,6 +33,9 @@
 
 	<content contentuid="7B78D531724E6BB6F31FF361C5E8EDE56FBF7" version="1">Shield Lock</content>
 
+	<content contentuid="F730E19FC0D546A59E01C1A48FF7E915700A1" version="1">Steel Bastion</content>
+	<content contentuid="372A8F8C88342B08B2DCEF84CF577408229B1" version="1">Once per long rest, as an action, become an immovable bastion of defense until the start of your next turn. Attacks against you and allies within 10 feet have disadvantage, and you all have advantage on saving throws.</content>
+
 	<content contentuid="8083F0DAC2ACCE9DA0CD2405A449A4B35109E" version="1">Bulwark</content>
 	<content contentuid="00ADC0076C806DDD7050EEA4693F6CB08C0C1" version="1">The Bulwark is an unbreakable defender, using their shield to absorb blows and protect their allies, standing firm where others would fall. They specialize in enduring the onslaught of enemies and providing a safe haven for their companions in the heat of battle.</content>
 

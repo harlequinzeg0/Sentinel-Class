@@ -19,6 +19,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_AuraOf_Shielding"/>
                     <attribute id="UUID" type="guid" value="aa8182e9-a1a3-4e40-a853-470887931ba5"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Bulwark level 7"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Shield_Bastion"/>
+                    <attribute id="UUID" type="guid" value="f2a527b0-1c06-425e-9d9a-a6e745eda203"/>
+                </node>
 			</children>
         </node>
     </region>
