@@ -15,7 +15,7 @@
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MulticlassSpellcasterModifier" type="double" value="0.5"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="Sentinel"/>
+                    <attribute id="Name" type="FixedString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="SoundClassType" type="FixedString" value="Paladin"/>
@@ -35,7 +35,7 @@
 					<attribute id="Description" type="TranslatedString" handle="00ADC0076C806DDD7050EEA4693F6CB08C0C1" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="8083F0DAC2ACCE9DA0CD2405A449A4B35109E" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>	
-                    <attribute id="Name" type="FixedString" value="Bulwark"/>
+                    <attribute id="Name" type="FixedString" value="Harlequinz_Ego_Bulwark"/>
                     <attribute id="ParentGuid" type="guid" value="c278815d-f645-45a1-bc4c-8ca336df1221"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="51f8a013-4ac7-403f-aabe-b917e3be5875"/>
@@ -48,7 +48,7 @@
 					<attribute id="Description" type="TranslatedString" handle="024F21C75EB13F644934B52892D5127966073" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="30E63A5BF54004B4931E67AC9B021361D8A3B" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>	
-                    <attribute id="Name" type="FixedString" value="Hoplite"/>
+                    <attribute id="Name" type="FixedString" value="Harlequinz_Ego_Hoplite"/>
                     <attribute id="ParentGuid" type="guid" value="c278815d-f645-45a1-bc4c-8ca336df1221"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="50695711-709e-40d4-975c-c957b70d0b92"/>
@@ -61,7 +61,7 @@
 					<attribute id="Description" type="TranslatedString" handle="DE0F5C8A810D42714F4D8F05DD68BCF36EE06" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="7715134B77EB383C5F5A8E5E3912941336ACF" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="Name" type="FixedString" value="Guardian"/>
+                    <attribute id="Name" type="FixedString" value="Harlequinz_Ego_Guardian"/>
                     <attribute id="ParentGuid" type="guid" value="c278815d-f645-45a1-bc4c-8ca336df1221"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="962e2e13-779d-48c4-af73-959534d9eab8"/>

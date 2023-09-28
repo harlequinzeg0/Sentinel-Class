@@ -76,7 +76,7 @@ data "StatusGroups" "SG_RemoveOnRespec"
 data "ManagedStatusEffectType" "Positive"
 data "ManagedStatusEffectGroup" "6435c10a-c67d-4f79-8813-b84b0762f92b"
 
-new entry "UNYIELDING"
+new entry "UNYIELDING_SENTINEL"
 type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "952BD20E8D1D40213E12522BE5DDF0BD681FF;1"
