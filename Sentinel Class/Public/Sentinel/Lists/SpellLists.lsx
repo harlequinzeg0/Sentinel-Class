@@ -24,6 +24,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Shield_Bastion"/>
                     <attribute id="UUID" type="guid" value="f2a527b0-1c06-425e-9d9a-a6e745eda203"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Guardian level 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_Guardians_Vow"/>
+                    <attribute id="UUID" type="guid" value="187a981c-3cb0-4e9d-85ce-1dfc8391fb05"/>
+                </node>
 			</children>
         </node>
     </region>

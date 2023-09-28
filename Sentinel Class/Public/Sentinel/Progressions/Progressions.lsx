@@ -201,7 +201,7 @@
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Guardian"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(187a981c-3cb0-4e9d-85ce-1dfc8391fb05,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="962e2e13-779d-48c4-af73-959534d9eab8"/> 
                     <attribute id="UUID" type="guid" value="962d2acb-6106-46f6-8c10-54d54017fba4"/>
                 </node>

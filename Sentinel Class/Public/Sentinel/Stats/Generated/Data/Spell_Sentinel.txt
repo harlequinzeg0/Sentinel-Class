@@ -101,6 +101,42 @@ data "DamageType" "Bludgeoning"
 data "SpellSoundMagnitude" "None"
 data "Sheathing" "Melee"
 
+new entry "Target_Guardians_Vow"
+type "SpellData"
+data "SpellType" "Target"
+data "Cooldown" "OncePerRest"
+data "SpellProperties" "ApplyStatus(SELF, GUARDIANSVOW_CASTER, 100, -1);ApplyStatus(GUARDIANSVOW, 100, -1)"
+data "TargetRadius" "1.5"
+data "TargetConditions" "Character() and not Enemy() and not Self() and not Dead()"
+data "Icon" "Spell_Abjuration_WardingBond"
+data "DisplayName" "h0e5919fbg8bf8g48c7gb3ffga94e80161fc4;2"
+data "Description" "h4eaf5c90gbc6cg4864g8701g155af88776af;4"
+data "DescriptionParams" "1"
+data "TooltipStatusApply" "ApplyStatus(GUARDIANSVOW, 100, -1)"
+data "TooltipUpcastDescription" "6ff1780a-855a-414c-a8bf-811251537206"
+data "CastSound" "Spell_Cast_Buff_WardingBond_L1to3"
+data "TargetSound" "Spell_Impact_Buff_WardingBond_L1to3"
+data "VocalComponentSound" "Vocal_Component_ResistanceGeneric"
+data "CastTextEvent" "Cast"
+data "CycleConditions" "Ally() and not Dead()"
+data "UseCosts" "ActionPoint:1"
+data "SpellAnimation" "03496c4a-49e0-4132-b585-3e5ecd1ad8e5,,;,,;5e7e63e1-0e69-46e7-ade7-fe3dadcc9184,,;e9ad50df-e7f1-43a0-b782-4c08f92b0f5a,,;a9682ef9-5d9e-4ac0-8144-2c7fe6eb868c,,;,,;32fb4d91-7fde-4b05-9144-ea87b9a4284a,,;,,;,,"
+data "VerbalIntent" "Buff"
+data "SpellStyleGroup" "Class"
+data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent;IsMelee"
+data "HitAnimationType" "MagicalNonDamage"
+data "MaximumTargets" "1"
+data "MemoryCost" "1"
+data "PrepareEffect" "176da553-3284-4f20-b3be-12a578f84ef3"
+data "CastEffect" "e337c385-2f32-423c-a5d1-255039b105d6"
+data "TargetEffect" "0b1e0e8a-fa78-4125-b027-e132a8d7b2d8"
+
+
+
+
+
+
+
 new entry "Target_Bash_Maneuver"
 type "SpellData"
 data "SpellType" "Target"

@@ -74,6 +74,18 @@ data "StatsFunctorContext" "OnCreate;OnLongRest"
 data "Conditions" "not HasStatus('UNYIELDING_SENTINEL',context.Source)"
 data "StatsFunctors" "ApplyStatus(SELF,UNYIELDING_SENTINEL,100,-1)"
 
+new entry "Guardians_Vow"
+type "PassiveData"
+data "DisplayName" "hf9bddb88gf6b1g411cg882fg712503f60fda;2"
+data "Description" "h8758da85g215cg4c9cg8f5ag122938d3012a;2"
+data "Icon" "Spell_Abjuration_WardingBond"
+data "PriorityOrder" "2"
+data "Properties" "Highlighted"
+
+
+
+
+
 new entry "Target_Bash_Sentinel"
 type "PassiveData"
 data "DisplayName" "hcda66a1fgc07bg428ega1e6g1492143c9d7d;2"
