@@ -29,6 +29,16 @@
                     <attribute id="Spells" type="LSString" value="Target_Guardians_Vow"/>
                     <attribute id="UUID" type="guid" value="187a981c-3cb0-4e9d-85ce-1dfc8391fb05"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Guardian level 7"/>
+                    <attribute id="Spells" type="LSString" value="Target_Safeguard_Sentinel"/>
+                    <attribute id="UUID" type="guid" value="7a7c5979-0a12-4cce-99b6-710ae6d3eaa5"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Guardian level 9"/>
+                    <attribute id="Spells" type="LSString" value="Target_Sacrifice_Sentinel"/>
+                    <attribute id="UUID" type="guid" value="0022ede5-84e1-419d-b4ea-80aa9b47acd4"/>
+                </node>
 			</children>
         </node>
     </region>

@@ -31,6 +31,15 @@
 	<content contentuid="952BD20E8D1D40213E12522BE5DDF0BD681FF" version="1">Unyielding</content>
 	<content contentuid="DF63A587AA668D8C097D56C467CEFF2AB156D" version="1">Once per long rest, drop to 1 hit point instead of 0.</content>
 
+	<content contentuid="28C242F12FDE5028742FA36E3ACB6CD6EBF1E" version="1">Guardian's Vow</content>
+	<content contentuid="9E6B176EDD6F9EFDD5D78A6764E592E80110E" version="1">Once per long rest, vow to protect an ally within 30 feet, granting them advantage on saving throws and resistance to the damage of attacks against them as a reaction.</content>
+
+	<content contentuid="3BE6DA89D4CFC739F88DC14778E5FB251D9A9" version="1">Safeguard</content>
+	<content contentuid="357EDA83A72D37854D8E2144D22E324CC1461" version="1">Once per short rest, as a bonus action, select one ally within 30 feet. They gain a temporary bonus to their Dexterity saving throws and +2 bonus to their AC.</content>
+
+	<content contentuid="3095E8071CECF599F40CA08448D20CD9938D8" version="1">Guardian’s Sacrifice</content>
+	<content contentuid="B183776A2CA6D2CA086599888D957F0CB38C0" version="1">Once per long rest, as an action, envelop an ally in a protective aura for 1 minute. While enveloped, the ally gains resistance to all damage. If the ally would be reduced to 0 hit points while this aura is active, the aura is dispelled, and the ally is instead reduced to 1 hit point.</content>
+
 	<content contentuid="7B78D531724E6BB6F31FF361C5E8EDE56FBF7" version="1">Shield Lock</content>
 
 	<content contentuid="F730E19FC0D546A59E01C1A48FF7E915700A1" version="1">Steel Bastion</content>

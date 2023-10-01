@@ -210,7 +210,7 @@
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Guardian"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(7a7c5979-0a12-4cce-99b6-710ae6d3eaa5,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="962e2e13-779d-48c4-af73-959534d9eab8"/> 
                     <attribute id="UUID" type="guid" value="b01f1444-779d-4b30-b20e-725f31e564a0"/>
                 </node>
@@ -219,7 +219,7 @@
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Guardian"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(0022ede5-84e1-419d-b4ea-80aa9b47acd4,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="962e2e13-779d-48c4-af73-959534d9eab8"/> 
                     <attribute id="UUID" type="guid" value="39577227-3517-4331-bfa0-770d23b49fe5"/>
                 </node>
