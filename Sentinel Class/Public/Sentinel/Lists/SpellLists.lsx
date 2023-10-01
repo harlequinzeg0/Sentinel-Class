@@ -44,6 +44,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_Silence_Sentinel"/>
                     <attribute id="UUID" type="guid" value="4fed92b5-eef8-4884-be33-338dca8be64f"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Mage Bane level 9"/>
+                    <attribute id="Spells" type="LSString" value="Zone_Arcane_Retaliation"/>
+                    <attribute id="UUID" type="guid" value="a57cff76-eac5-4752-a786-0370a4ebb40c"/>
+                </node>
 			</children>
         </node>
     </region>

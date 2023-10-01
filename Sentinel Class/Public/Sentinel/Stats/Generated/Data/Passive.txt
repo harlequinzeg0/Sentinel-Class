@@ -91,6 +91,22 @@ data "Icon" "Spell_Abjuration_WardingBond"
 data "PriorityOrder" "2"
 data "Properties" "Highlighted"
 
+new entry "SpellGuard_Sentinel"
+type "PassiveData"
+data "DisplayName" "0040EF53D4C4E3F19F882BCCC1B025FBE771C;1"
+data "Description" "5CA6BD260EC8D2C86D2FF6117E58AE50B0E73;1"
+data "Icon" "Icon_Spellguard"
+data "Boosts" "IF(IsSpell()):Advantage(AllSavingThrows)"
+data "Properties" "Highlighted"
+
+new entry "Sentinel_Arcane_Recovery"
+type "PassiveData"
+data "DisplayName" "6A2F5DB96AFF431626DD01C1841FF1F14E85B;1"
+data "Description" "84716E7A96236E052CA715361A6F9EA76ABF6;2"
+data "DescriptionParams" "DealDamage(LevelMapValue(D4Cantrip),Radiant)"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "PassiveFeature_Counterspell"
+data "Boosts" "UnlockInterrupt(Interrupt_Counterspell_Sentinel_2)"
 
 
 

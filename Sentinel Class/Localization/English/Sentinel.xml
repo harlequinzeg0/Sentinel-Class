@@ -47,9 +47,21 @@
 
 	<content contentuid="4940F256757291133B3DE3392D318D8FA2FA2" version="1">Arcane Intercept</content>
 	<content contentuid="2809DB65C3AD359584650C0F966304F83DBA0" version="1">When a target casts a spell within your range you can cast as a reaction, an enhanced counterspell which deals [1] back at the source.</content>
+	<content contentuid="D6FC05474A0FD25AB95E09785AB2ABB936F2B" version="1">When a target casts a spell within your range you can cast as a reaction, an enhanced counterspell which deals [1] back at the source. Dispelled magic is stored for later use.</content>
+
 
 	<content contentuid="03C22BC5838A8A326035EB11F2608FAD695DD" version="1">Aura of Silent Warding</content>
 	<content contentuid="6B4EE3D93502B55DFA3FD5CDDD98944E511C6" version="1">You can emanate a magical aura of silence in a 6m radius around you as an action. The aura lasts for 6 turns and can be used once per short rest.</content>
+
+	<content contentuid="0040EF53D4C4E3F19F882BCCC1B025FBE771C" version="1">Spellbreaker</content>
+	<content contentuid="5CA6BD260EC8D2C86D2FF6117E58AE50B0E73" version="1">You gain advantage on saving throws against spells.</content>
+
+	<content contentuid="6A2F5DB96AFF431626DD01C1841FF1F14E85B" version="1">Arcane Recovery</content>
+	<content contentuid="84716E7A96236E052CA715361A6F9EA76ABF6" version="1">Your Arcane Intercept ability now stores the dispelled energy. this dispelled energy can be unleashed using Arcane Retaliation.</content>
+
+	<content contentuid="76CECD455A2CB4FFF88C2B6458729CD9FF057" version="1">Arcane Retaliation</content>
+	<content contentuid="C37AB4ADB3B8649AC85CBDC9C6CD772BA6995" version="1">Once per long rest, as an action, you can release stored arcane energy in a focused beam, dealing radiant damage.</content>
+
 
 	<content contentuid="8083F0DAC2ACCE9DA0CD2405A449A4B35109E" version="1">Bulwark</content>
 	<content contentuid="00ADC0076C806DDD7050EEA4693F6CB08C0C1" version="1">The Bulwark is an unbreakable defender, using their shield to absorb blows and protect their allies, standing firm where others would fall. They specialize in enduring the onslaught of enemies and providing a safe haven for their companions in the heat of battle.</content>
