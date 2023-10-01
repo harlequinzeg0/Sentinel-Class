@@ -181,6 +181,28 @@ data "PrepareEffect" "60ec0a2d-1b72-4fb2-9eaf-571638aca25d"
 data "CastEffect" "8265c6d6-662a-40fe-888b-024af0e2b1b9"
 data "TargetEffect" "4df0bae6-fccf-48a0-804c-3edc40264d07"
 
+new entry "Target_Counterspell_Success_Sentinel"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Counterspell"
+data "Level" "0"
+data "DisplayName" "4940F256757291133B3DE3392D318D8FA2FA2;1"
+data "Description" "2809DB65C3AD359584650C0F966304F83DBA0;2"
+data "DescriptionParams" "DealDamage(1d8,Radiant)"
+data "SpellProperties" "DealDamage(1d8,Radiant)"
+data "CastSound" "Spell_Cast_Control_CounterSpell_L1to3"
+data "TargetSound" "Spell_Impact_Control_CounterSpell_L1to3"
+data "CastTextEvent" "Cast"
+data "UseCosts" "ReactionActionPoint:1"
+data "SpellAnimation" ",,;,,;b04ce010-286c-4eaf-9b7e-dc42aa6c0b8f,,;,,;,,;,,;,,;,,;,,"
+data "CastEffect" "2c5a0742-e685-41dc-af87-477ce2d7779b"
+data "TargetEffect" "e1c681ba-b303-4c9e-ab60-8984efac755e"
+data "BeamEffect" "79f74c1f-dec0-4847-a206-f9289407afe0"
+data "InterruptPrototype" ""
+
+
+
+
 new entry "Target_Bash_Maneuver"
 type "SpellData"
 data "SpellType" "Target"

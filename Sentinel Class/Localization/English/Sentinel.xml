@@ -37,7 +37,7 @@
 	<content contentuid="3BE6DA89D4CFC739F88DC14778E5FB251D9A9" version="1">Safeguard</content>
 	<content contentuid="357EDA83A72D37854D8E2144D22E324CC1461" version="1">Once per short rest, as a bonus action, select one ally within 30 feet. They gain a temporary bonus to their Dexterity saving throws and +2 bonus to their AC.</content>
 
-	<content contentuid="3095E8071CECF599F40CA08448D20CD9938D8" version="1">Guardian’s Sacrifice</content>
+	<content contentuid="3095E8071CECF599F40CA08448D20CD9938D8" version="1">Guardian's Sacrifice</content>
 	<content contentuid="B183776A2CA6D2CA086599888D957F0CB38C0" version="1">Once per long rest, as an action, envelop an ally in a protective aura for 1 minute. While enveloped, the ally gains resistance to all damage. If the ally would be reduced to 0 hit points while this aura is active, the aura is dispelled, and the ally is instead reduced to 1 hit point.</content>
 
 	<content contentuid="7B78D531724E6BB6F31FF361C5E8EDE56FBF7" version="1">Shield Lock</content>
@@ -45,11 +45,14 @@
 	<content contentuid="F730E19FC0D546A59E01C1A48FF7E915700A1" version="1">Steel Bastion</content>
 	<content contentuid="372A8F8C88342B08B2DCEF84CF577408229B1" version="1">Once per long rest, as an action, become an immovable bastion of defense until the start of your next turn. Attacks against you and allies within 10 feet have disadvantage, and you all have advantage on saving throws.</content>
 
+	<content contentuid="4940F256757291133B3DE3392D318D8FA2FA2" version="1">Arcane Intercept</content>
+	<content contentuid="2809DB65C3AD359584650C0F966304F83DBA0" version="1">When a target casts a spell within your range you can cast as a reaction, an enhanced counterspell which deals [1] damage back at the source.</content>
+
 	<content contentuid="8083F0DAC2ACCE9DA0CD2405A449A4B35109E" version="1">Bulwark</content>
 	<content contentuid="00ADC0076C806DDD7050EEA4693F6CB08C0C1" version="1">The Bulwark is an unbreakable defender, using their shield to absorb blows and protect their allies, standing firm where others would fall. They specialize in enduring the onslaught of enemies and providing a safe haven for their companions in the heat of battle.</content>
 
-	<content contentuid="30E63A5BF54004B4931E67AC9B021361D8A3B" version="1">Hoplite</content>
-	<content contentuid="024F21C75EB13F644934B52892D5127966073" version="1">The Hoplite is a disciplined warrior, blending offense and defense to control the battlefield, utilizing shields and spears to their maximum potential. They specialize in precise strikes and rapid advances, disrupting enemy lines and breaking their formations.</content>
+	<content contentuid="30E63A5BF54004B4931E67AC9B021361D8A3B" version="1">Mage's Bane</content>
+	<content contentuid="024F21C75EB13F644934B52892D5127966073" version="1">The Mage's Bane is a relentless pursuer of arcane wielders, striking fear in those trained in the mystic arts. You are trained to disrupt and reflect spells, and to withstand magical assaults. </content>
 
 	<content contentuid="7715134B77EB383C5F5A8E5E3912941336ACF" version="1">Guardian</content>
 	<content contentuid="DE0F5C8A810D42714F4D8F05DD68BCF36EE06" version="1">The Guardian is a dedicated protector, vowing to shield their allies from harm and always ready to sacrifice themselves to ensure their companions' safety. They excel in deflecting attacks away from their allies and are quick to intervene when danger looms.</content>

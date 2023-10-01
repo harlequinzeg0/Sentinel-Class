@@ -172,7 +172,7 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Hoplite"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sentinel_Counterspell_Passive"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="50695711-709e-40d4-975c-c957b70d0b92"/> 
                     <attribute id="UUID" type="guid" value="055b043c-dffb-42a8-abc0-8b66419d34f4"/>
