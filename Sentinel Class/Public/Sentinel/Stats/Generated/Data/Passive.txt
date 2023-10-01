@@ -110,8 +110,6 @@ data "Icon" "Icon_Sentinel_CounterSpell"
 data "Boosts" "UnlockInterrupt(Interrupt_Counterspell_Sentinel_2)"
 data "Properties" "Highlighted"
 
-
-
 new entry "Target_Bash_Sentinel"
 type "PassiveData"
 data "DisplayName" "hcda66a1fgc07bg428ega1e6g1492143c9d7d;2"
