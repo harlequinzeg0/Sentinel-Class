@@ -5,8 +5,8 @@
         <node id="root">
             <children>
                 <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="0AA22270EA6DA0286F84C1A3FEB646ADC2CB7" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="B4FC46D1F36C58F8DFEEAC1FC3D9D80A6EDD8" version="1"/> 
+                    <attribute id="Description" type="TranslatedString" handle="B4FC46D1F36C58F8DFEEAC1FC3D9D80A6EDD8" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="0AA22270EA6DA0286F84C1A3FEB646ADC2CB7" version="1"/> 
                     <attribute id="IsSpellResource" type="bool" value="false"/> 
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="MaxValue" type="uint32" value="0"/>
