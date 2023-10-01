@@ -56,6 +56,9 @@
 	<content contentuid="0040EF53D4C4E3F19F882BCCC1B025FBE771C" version="1">Spellbreaker</content>
 	<content contentuid="5CA6BD260EC8D2C86D2FF6117E58AE50B0E73" version="1">You gain advantage on saving throws against spells.</content>
 
+	<content contentuid="0AA22270EA6DA0286F84C1A3FEB646ADC2CB7" version="1">Arcane Energy</content>
+	<content contentuid="B4FC46D1F36C58F8DFEEAC1FC3D9D80A6EDD8" version="1">Stored energy gained from dispelling magic.</content>
+
 	<content contentuid="6A2F5DB96AFF431626DD01C1841FF1F14E85B" version="1">Arcane Recovery</content>
 	<content contentuid="84716E7A96236E052CA715361A6F9EA76ABF6" version="1">Your Arcane Intercept ability now stores the dispelled energy. this dispelled energy can be unleashed using Arcane Retaliation.</content>
 

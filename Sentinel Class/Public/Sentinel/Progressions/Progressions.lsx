@@ -188,10 +188,11 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ArcaneEnergy,3,0)"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_MageBane"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Sentinel_Counterspell_Passive"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Sentinel_Arcane_Recovery"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sentinel_Arcane_Recovery;SpellGuard_Sentinel"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(a57cff76-eac5-4752-a786-0370a4ebb40c,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="50695711-709e-40d4-975c-c957b70d0b92"/> 
                     <attribute id="UUID" type="guid" value="0dfc28a5-f60e-4b8a-9a8a-e58e691e04fa"/>
