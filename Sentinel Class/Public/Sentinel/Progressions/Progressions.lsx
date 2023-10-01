@@ -182,7 +182,7 @@
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_MageBane"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(4fed92b5-eef8-4884-be33-338dca8be64f,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="50695711-709e-40d4-975c-c957b70d0b92"/> 
                     <attribute id="UUID" type="guid" value="a50b9d83-3695-409a-acba-8b43965efb8f"/>
                 </node>

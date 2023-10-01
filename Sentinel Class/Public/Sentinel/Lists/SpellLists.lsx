@@ -39,6 +39,11 @@
                     <attribute id="Spells" type="LSString" value="Target_Sacrifice_Sentinel"/>
                     <attribute id="UUID" type="guid" value="0022ede5-84e1-419d-b4ea-80aa9b47acd4"/>
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Mage Bane level 7"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Silence_Sentinel"/>
+                    <attribute id="UUID" type="guid" value="4fed92b5-eef8-4884-be33-338dca8be64f"/>
+                </node>
 			</children>
         </node>
     </region>
