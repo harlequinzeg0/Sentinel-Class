@@ -170,7 +170,7 @@
 
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Name" type="LSString" value="Harlequinz_Ego_Hoplite"/>
+                    <attribute id="Name" type="LSString" value="Harlequinz_Ego_MageBane"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value="Sentinel_Counterspell_Passive"/>
                     <attribute id="Selectors" type="LSString" value=""/>
@@ -179,7 +179,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="Harlequinz_Ego_Hoplite"/>
+                    <attribute id="Name" type="LSString" value="Harlequinz_Ego_MageBane"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
@@ -188,7 +188,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
-                    <attribute id="Name" type="LSString" value="Harlequinz_Ego_Hoplite"/>
+                    <attribute id="Name" type="LSString" value="Harlequinz_Ego_MageBane"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>

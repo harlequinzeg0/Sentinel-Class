@@ -48,7 +48,7 @@
 					<attribute id="Description" type="TranslatedString" handle="024F21C75EB13F644934B52892D5127966073" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="30E63A5BF54004B4931E67AC9B021361D8A3B" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>	
-                    <attribute id="Name" type="FixedString" value="Harlequinz_Ego_Hoplite"/>
+                    <attribute id="Name" type="FixedString" value="Harlequinz_Ego_MageBane"/>
                     <attribute id="ParentGuid" type="guid" value="c278815d-f645-45a1-bc4c-8ca336df1221"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="50695711-709e-40d4-975c-c957b70d0b92"/>
