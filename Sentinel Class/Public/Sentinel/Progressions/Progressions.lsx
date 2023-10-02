@@ -170,6 +170,7 @@
 
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ArcaneIntercept,2,0)"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_MageBane"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value="Sentinel_Counterspell_Passive"/>
@@ -188,7 +189,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ArcaneEnergy,3,0)"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_MageBane"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Sentinel_Counterspell_Passive"/>

@@ -14,6 +14,16 @@
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
                     <attribute id="UUID" type="guid" value="f865304f-3c44-410c-a835-b08e427756e6"/>
                 </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="A4FBFB0F82BE9B2C12598DC881243F24C7CDE" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="4940F256757291133B3DE3392D318D8FA2FA2" version="1"/> 
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="ArcaneIntercept"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="7bca217b-e778-41d0-8617-f04a7a252cd5"/>
+                </node>
             </children>
         </node>
     </region>
