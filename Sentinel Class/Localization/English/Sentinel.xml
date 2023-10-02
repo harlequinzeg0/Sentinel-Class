@@ -32,7 +32,7 @@
 	<content contentuid="DF63A587AA668D8C097D56C467CEFF2AB156D" version="1">Once per long rest, drop to 1 hit point instead of 0.</content>
 
 	<content contentuid="28C242F12FDE5028742FA36E3ACB6CD6EBF1E" version="1">Guardian's Vow</content>
-	<content contentuid="9E6B176EDD6F9EFDD5D78A6764E592E80110E" version="1">Once per long rest, vow to protect an ally within 9m, granting them advantage on saving throws and resistance to the damage of attacks against them as a reaction.</content>
+	<content contentuid="9E6B176EDD6F9EFDD5D78A6764E592E80110E" version="1">Once per long rest, vow to protect an ally within 9m, granting them advantage on saving throws and resistance to the damage of attacks against them.</content>
 
 	<content contentuid="3BE6DA89D4CFC739F88DC14778E5FB251D9A9" version="1">Safeguard</content>
 	<content contentuid="357EDA83A72D37854D8E2144D22E324CC1461" version="1">Once per short rest, as a bonus action, select two allies within 9m. They gain a temporary bonus to their Dexterity saving throws and +2 bonus to their AC.</content>
