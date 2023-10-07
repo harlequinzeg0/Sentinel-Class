@@ -1,0 +1,5 @@
+function DualWielderShields(entity)
+	-- Default to Target, like cpp functions
+    entity = entity or context.Target
+    return WieldingWeapon('Shield', false, true, entity) & WieldingWeapon('Shield', true, true, entity)
+end
