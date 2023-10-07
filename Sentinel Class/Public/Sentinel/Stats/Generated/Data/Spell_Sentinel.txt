@@ -74,7 +74,7 @@ data "DamageType" "Bludgeoning"
 data "SpellSoundMagnitude" "None"
 data "Sheathing" "Melee"
 
-new entry "Target_ShieldAttack_2"
+new entry "Target_ShieldAttack_Two"
 type "SpellData"
 data "SpellType" "Target"
 data "SpellProperties" ""

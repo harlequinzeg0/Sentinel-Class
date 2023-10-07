@@ -125,8 +125,8 @@
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sentinel_ShieldAttacks_Two;AuraOf_Shielding"/>
                     <attribute id="PassivesRemoved" type="LSString" value="Sentinel_ShieldAttacks"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Sentinel_ShieldAttacks_2;AuraOf_Shielding"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="315cafa4-ca77-4cba-84b4-9edbd9d8f3f3"/>
                 </node>
