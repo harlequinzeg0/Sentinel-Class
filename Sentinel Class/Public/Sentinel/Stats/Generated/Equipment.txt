@@ -1,7 +1,7 @@
 new equipment "EQP_CC_Sentinel"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Spear"
+add equipment entry "ARM_Shield"
 add equipmentgroup
 add equipment entry "ARM_Shield"
 add equipmentgroup
