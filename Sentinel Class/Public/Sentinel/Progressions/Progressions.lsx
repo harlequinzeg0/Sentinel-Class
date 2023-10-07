@@ -79,7 +79,6 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -87,7 +86,6 @@
                     <attribute id="UUID" type="guid" value="13976fa7-4617-43e5-9ce3-39a9917ea9ec"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -96,7 +94,6 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -104,16 +101,15 @@
                     <attribute id="UUID" type="guid" value="e49d91d3-c14a-4a98-a14c-40aacfb6346a"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Shielded_Resolve"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Shielded_Resolve;Sentinel_ShieldAttacks_Two"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Sentinel_ShieldAttacks"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="37382eb0-5795-4987-8210-b5f47c42fec6"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -121,18 +117,15 @@
                     <attribute id="UUID" type="guid" value="491d15fe-99de-427f-8627-66a12b576ded"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Sentinel_ShieldAttacks_Two;AuraOf_Shielding"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="Sentinel_ShieldAttacks"/>
+                    <attribute id="PassivesAdded" type="LSString" value="AuraOf_Shielding"/>
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="315cafa4-ca77-4cba-84b4-9edbd9d8f3f3"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>

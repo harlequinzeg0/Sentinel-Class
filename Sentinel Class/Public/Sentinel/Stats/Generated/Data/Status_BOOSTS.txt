@@ -38,8 +38,6 @@ data "StackId" "AURA_OF_SHIELDING"
 data "StackPriority" "5"
 data "Boosts" "AC(1)"
 data "StatusGroups" "SG_RemoveOnRespec"
-data "ApplyEffect" "d21494e5-5c30-4a69-85ef-75a785e71105"
-data "EndEffect" "a5c11e94-efa3-4998-a76b-fc12502ea565"
 
 new entry "AURA_SHIELD_BASTION"
 type "StatusData"
