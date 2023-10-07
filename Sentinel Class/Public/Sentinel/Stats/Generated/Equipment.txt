@@ -17,8 +17,6 @@ add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
 add equipment entry "WPN_Javelin"
 add equipmentgroup
-add equipment entry "WPN_Javelin"
-add equipmentgroup
 add equipment entry "OBJ_Keychain"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
