@@ -21,6 +21,13 @@ data "Description" "DBCE67C308D01E0AE9498B9D98CB2AAABD5EC;1"
 data "Icon" "DefensiveStance_Sentinel_Icon"
 data "Boosts" "UnlockSpell(Shout_DefensiveStance_Sentinel)"
 
+new entry "Throw_Shield_Unlock"
+type "PassiveData"
+data "DisplayName" "ADD20D483C9CF9ED6BA24D817ADE236BEF406;1"
+data "Description" "953BEDD7FC4220B1FCEA86A24B7893DB45D61;1"
+data "Icon" "Action_ImprovisedWeapon"
+data "Boosts" "UnlockSpell(Throw_Shield)"
+
 new entry "Sentinel_ShieldAttacks"
 type "PassiveData"
 data "DisplayName" "E57CDCDAF652B45D802C863A4CF083096D624;1"

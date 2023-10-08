@@ -10,7 +10,7 @@
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 
-                    <attribute id="PassivesAdded" type="LSString" value="ShieldMaster_PassiveBonuses;ShieldMaster_Block;Sentinel_ShieldAttacks"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShieldMaster_PassiveBonuses;ShieldMaster_Block;Sentinel_ShieldAttacks;Throw_Shield_Unlock"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(303e2715-4ff6-4120-92bc-34a184080557,,,,AlwaysPrepared);SelectSkills(e4c8b664-b930-45fa-9016-06b5ba56903e,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
 					<attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="c79a6c1a-9652-41aa-9d9e-1ca9579de4e4"/>
@@ -23,7 +23,7 @@
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(303e2715-4ff6-4120-92bc-34a184080557,,,,AlwaysPrepared)"/>
-                    <attribute id="PassivesAdded" type="LSString" value="ShieldMaster_PassiveBonuses;ShieldMaster_Block;Sentinel_ShieldAttacks"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShieldMaster_PassiveBonuses;ShieldMaster_Block;Sentinel_ShieldAttacks;Throw_Shield_Unlock"/>
 					<attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="6f208ee3-5fbe-4753-802f-7bde4ccb3478"/>
                 </node>

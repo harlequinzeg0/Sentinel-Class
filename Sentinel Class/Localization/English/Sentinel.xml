@@ -8,6 +8,7 @@
 
 
 	<content contentuid="ADD20D483C9CF9ED6BA24D817ADE236BEF406" version="1">Shield Throw</content>
+	<content contentuid="953BEDD7FC4220B1FCEA86A24B7893DB45D61" version="1">Throw your shield, dealing [1] to an enemy.</content>
 
 	<content contentuid="C769B0060BD4A9AE89FD39FF4DAC534138652" version="1">Dual Wieldable Shield</content>
 	<content contentuid="B493AE12B11F0D9B5EA2F867E19ABF8F5E514" version="1">Makes your currently equipped shield, in your off-hand dual wieldable. Allowing you to switch it to the main hand. You additionally learn to throw it such that it returns to you.</content>
