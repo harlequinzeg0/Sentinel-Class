@@ -6,6 +6,12 @@
 	<content contentuid="DDD4918CBFE8366732F53AE4C55002D12D9EE" version="1">Shielded Resilience</content>
 	<content contentuid="B6ECE7796B04B282D84C50FB56A9A0C8C4BDF" version="1">Gain immunity to disease and resistance to poison and radiant damage.</content>
 
+
+	<content contentuid="ADD20D483C9CF9ED6BA24D817ADE236BEF406" version="1">Shield Throw</content>
+
+	<content contentuid="C769B0060BD4A9AE89FD39FF4DAC534138652" version="1">Dual Wieldable Shield</content>
+	<content contentuid="B493AE12B11F0D9B5EA2F867E19ABF8F5E514" version="1">Makes your currently equipped shield, in your off-hand dual wieldable. Allowing you to switch it to the main hand. You additionally learn to throw it such that it returns to you.</content>
+
 	<content contentuid="D017808CB401A61E5F6D31D6C2A2FF04CACDA" version="1">Shielded Mind</content>
 	<content contentuid="5178811F9F7B33DFD39352960B59A5C4132F1" version="1">Gain advantage on saving throws against being charmed and immunity to being feared.</content>
 

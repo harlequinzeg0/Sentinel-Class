@@ -10,11 +10,6 @@
                     <attribute id="OffHand" type="FixedString" value="Shield1H"/>
                     <attribute id="UUID" type="guid" value="bcd43600-aa3a-46b0-8ac4-f2f6d455a598"/>
                 </node>
-                <node id="WeaponAnimationSet">
-                    <attribute id="AnimationSetUUID" type="FixedString" value="3bfdfbfe-4bc4-45c9-b663-400555d13eb4"/>
-                    <attribute id="MainHand" type="FixedString" value="Shield1H"/>
-                    <attribute id="UUID" type="guid" value="ae90f34a-665e-4395-a508-66ef74bb1f0e"/>
-                </node>
             </children>
         </node>
     </region>

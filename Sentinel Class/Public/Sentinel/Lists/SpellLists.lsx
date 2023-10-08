@@ -6,7 +6,7 @@
             <children>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Sentinel Lvl One"/>
-                    <attribute id="Spells" type="LSString" value="Target_ShieldAttack"/>
+                    <attribute id="Spells" type="LSString" value="Shout_DualShield"/>
                     <attribute id="UUID" type="guid" value="303e2715-4ff6-4120-92bc-34a184080557"/>
                 </node>
                 <node id="SpellList">
