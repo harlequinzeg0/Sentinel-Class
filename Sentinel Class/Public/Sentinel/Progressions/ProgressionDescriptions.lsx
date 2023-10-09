@@ -8,8 +8,32 @@
                     <attribute id="Description" type="TranslatedString" handle="12192969856EB0B5BAD9353E5A2B9606FCB81" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="0252515E9727EDAE0F6637E5FE6032AFC1B28" version="1"/>
                     <attribute id="ProgressionTableId" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
-                    <attribute id="Type" type="FixedString" value="Sentinel"/>
+                    <attribute id="Type" type="FixedString" value="Harlequinz_Ego_Sentinel"/>
                     <attribute id="UUID" type="guid" value="36d01d24-894d-42ec-84b0-240e4e212af3"/>
+                </node>
+
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="DE0F5C8A810D42714F4D8F05DD68BCF36EE06" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="7715134B77EB383C5F5A8E5E3912941336ACF" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="962e2e13-779d-48c4-af73-959534d9eab8"/>
+                    <attribute id="Type" type="FixedString" value="Harlequinz_Ego_Guardian"/>
+                    <attribute id="UUID" type="guid" value="72f12054-79f5-49de-8c61-3cb794bfe86c"/>
+                </node>
+
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="024F21C75EB13F644934B52892D5127966073" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="30E63A5BF54004B4931E67AC9B021361D8A3B" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="50695711-709e-40d4-975c-c957b70d0b92"/>
+                    <attribute id="Type" type="FixedString" value="Harlequinz_Ego_MageBane"/>
+                    <attribute id="UUID" type="guid" value="69634866-d99b-4c4a-b924-db77d50ed67c"/>
+                </node>
+
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="00ADC0076C806DDD7050EEA4693F6CB08C0C1" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="8083F0DAC2ACCE9DA0CD2405A449A4B35109E" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="51f8a013-4ac7-403f-aabe-b917e3be5875"/>
+                    <attribute id="Type" type="FixedString" value="Harlequinz_Ego_Bulwark"/>
+                    <attribute id="UUID" type="guid" value="e5b40ed5-9311-41f5-acc0-f8ad33535aa6"/>
                 </node>
             </children>
         </node>
