@@ -116,6 +116,13 @@
                     <attribute id="V1" type="float" value="0.1"/>
                     <attribute id="V2" type="float" value="0.2"/>
                 </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Icon_Sentinel_Shield_Toss"/>
+                    <attribute id="U1" type="float" value="0.6"/>
+                    <attribute id="U2" type="float" value="0.7"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
             </children>
         </node>
     </region>

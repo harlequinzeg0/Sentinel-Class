@@ -133,13 +133,13 @@
                     <attribute id="TableUUID" type="guid" value="27c00bca-0bda-4084-ad70-e9d3ee5cd6bf"/>
                     <attribute id="UUID" type="guid" value="8d8b3acb-068b-4b86-b30f-2c848f186632"/>
                 </node>  
-
+                
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Harlequinz_Ego_Bulwark"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value="FortressOfArmor"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(79efdfdd-54ef-4659-811d-33ccf3b2a983,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="51f8a013-4ac7-403f-aabe-b917e3be5875"/> 
                     <attribute id="UUID" type="guid" value="83c8b53b-e20e-4f69-94dd-fe9581c7eb35"/>
                 </node>
