@@ -53,7 +53,7 @@
 	<content contentuid="372A8F8C88342B08B2DCEF84CF577408229B1" version="1">Once per short rest, as an action, become an immovable bastion of defense until the start of your next turn. Attacks against you and allies within 10 feet have disadvantage, and you all have advantage on saving throws.</content>
 	
 	<content contentuid="EC32AE8D039AF2DD7E8B0A4BE4C5AF464C4AB" version="1">Shield of the Ages</content>
-	<content contentuid="6DD0C61B5E79ABB881569B339807468B68FE6" version="1">Once per long rest, as an action, become immmune to damage until the start of your next turn.</content>
+	<content contentuid="6DD0C61B5E79ABB881569B339807468B68FE6" version="1">Once per long rest, as an action, become immune to damage until the start of your next turn.</content>
 
 	<content contentuid="4940F256757291133B3DE3392D318D8FA2FA2" version="1">Arcane Intercept</content>
 	<content contentuid="2809DB65C3AD359584650C0F966304F83DBA0" version="1">Twice per short rest, When a target casts a spell within your range you can cast as a reaction, an enhanced counterspell which deals [1] back at the source.</content>
