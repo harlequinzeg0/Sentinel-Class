@@ -50,13 +50,18 @@
 	<content contentuid="7B78D531724E6BB6F31FF361C5E8EDE56FBF7" version="1">Shield Lock</content>
 
 	<content contentuid="F730E19FC0D546A59E01C1A48FF7E915700A1" version="1">Steel Bastion</content>
-	<content contentuid="372A8F8C88342B08B2DCEF84CF577408229B1" version="1">Once per long rest, as an action, become an immovable bastion of defense until the start of your next turn. Attacks against you and allies within 10 feet have disadvantage, and you all have advantage on saving throws.</content>
+	<content contentuid="372A8F8C88342B08B2DCEF84CF577408229B1" version="1">Once per short rest, as an action, become an immovable bastion of defense until the start of your next turn. Attacks against you and allies within 10 feet have disadvantage, and you all have advantage on saving throws.</content>
+	
+	<content contentuid="EC32AE8D039AF2DD7E8B0A4BE4C5AF464C4AB" version="1">Shield of the Ages</content>
+	<content contentuid="6DD0C61B5E79ABB881569B339807468B68FE6" version="1">Once per long rest, as an action, become immmune to damage until the start of your next turn.</content>
 
 	<content contentuid="4940F256757291133B3DE3392D318D8FA2FA2" version="1">Arcane Intercept</content>
 	<content contentuid="2809DB65C3AD359584650C0F966304F83DBA0" version="1">Twice per short rest, When a target casts a spell within your range you can cast as a reaction, an enhanced counterspell which deals [1] back at the source.</content>
 	<content contentuid="D6FC05474A0FD25AB95E09785AB2ABB936F2B" version="1">Twice per short rest, When a target casts a spell within your range you can cast as a reaction, an enhanced counterspell which deals [1] back at the source. Dispelled magic is stored for later use.</content>
 	<content contentuid="A4FBFB0F82BE9B2C12598DC881243F24C7CDE" version="1">Uses of your Sentinel's Counterspell ability.</content>
 
+	<content contentuid="8A76DBEC03C1552A7BBB996CD3F5EF1C7318A" version="1">Arcane Nullifier</content>
+	<content contentuid="955A6F19ABD28AE0B5418C313B93EB49D1CFE" version="1">Expend your absorbed arcane energy to massively damage and silence a single target, dealing [1] and silencing the enemy.</content>
 
 	<content contentuid="03C22BC5838A8A326035EB11F2608FAD695DD" version="1">Aura of Silent Warding</content>
 	<content contentuid="6B4EE3D93502B55DFA3FD5CDDD98944E511C6" version="1">You can emanate a magical aura of silence in a 6m radius around you as an action. The aura lasts for 6 turns and can be used once per short rest.</content>

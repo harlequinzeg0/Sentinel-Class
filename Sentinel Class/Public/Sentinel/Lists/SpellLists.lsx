@@ -30,6 +30,11 @@
                     <attribute id="UUID" type="guid" value="f2a527b0-1c06-425e-9d9a-a6e745eda203"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Bulwark level 20"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Shield_Of_Ages"/>
+                    <attribute id="UUID" type="guid" value="c02ca7a3-7795-4d4b-b82c-971460b0b9c9"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Guardian level 3"/>
                     <attribute id="Spells" type="LSString" value="Target_Guardians_Vow"/>
                     <attribute id="UUID" type="guid" value="187a981c-3cb0-4e9d-85ce-1dfc8391fb05"/>
@@ -45,6 +50,11 @@
                     <attribute id="UUID" type="guid" value="0022ede5-84e1-419d-b4ea-80aa9b47acd4"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Guardian level 20"/>
+                    <attribute id="Spells" type="LSString" value="Target_CureWounds_Mass_Sentinel"/>
+                    <attribute id="UUID" type="guid" value="fe21d297-97d8-4c36-a05b-fb0343ed3368"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Mage Bane level 7"/>
                     <attribute id="Spells" type="LSString" value="Shout_Silence_Sentinel"/>
                     <attribute id="UUID" type="guid" value="4fed92b5-eef8-4884-be33-338dca8be64f"/>
@@ -53,6 +63,11 @@
                     <attribute id="Comment" type="LSString" value="Mage Bane level 9"/>
                     <attribute id="Spells" type="LSString" value="Zone_Arcane_Retaliation"/>
                     <attribute id="UUID" type="guid" value="a57cff76-eac5-4752-a786-0370a4ebb40c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Mage Bane level 20"/>
+                    <attribute id="Spells" type="LSString" value="Target_Arcane_Nullifier"/>
+                    <attribute id="UUID" type="guid" value="05bbae6e-ece1-4ccf-8742-f172d7a395d2"/>
                 </node>
 			</children>
         </node>
